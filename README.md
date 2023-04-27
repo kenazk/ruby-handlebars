@@ -4,6 +4,7 @@ ruby-handlebars
 [![Build status](https://github.com/SmartBear/ruby-handlebars/actions/workflows/ci.yml/badge.svg)](https://github.com/SmartBear/ruby-handlebars/actions/workflows/ci.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/22dbe81de487cb27097c/maintainability)](https://codeclimate.com/github/SmartBear/ruby-handlebars/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/22dbe81de487cb27097c/test_coverage)](https://codeclimate.com/github/SmartBear/ruby-handlebars/test_coverage)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkenazk%2Fruby-handlebars.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkenazk%2Fruby-handlebars?ref=badge_shield)
 
 Pure Ruby library for [Handlebars](http://handlebarsjs.com/) template system.
 The main goal of this library is to simplify the use of Ruby and Handlebars on Windows machine. If you do not have any need of working on Windows, take a look at [handlebars.rb](https://github.com/cowboyd/handlebars.rb) that uses the real Handlebars library.
@@ -159,3 +160,7 @@ This gem would simply not exist if the handlebars team was not here. Thanks a lo
 Thanks a lot to @cowboyd for the [handlebars.rb](https://github.com/cowboyd/handlebars.rb) gem. We used it for a while and it's great (and as told at the beginning of the README, if you do not need any Windows support, use handlebars.rb instead ;) )
 
 Thanks a lot to the contributors @mvz, @schuetzm and @stewartmckee for making it a way better Handlebars renderer :)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkenazk%2Fruby-handlebars.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkenazk%2Fruby-handlebars?ref=badge_large)
